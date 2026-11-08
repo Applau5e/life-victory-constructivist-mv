@@ -1,0 +1,53 @@
+{
+  "source": "original MP3, 103–107s, upper-mid spectral flux; width follows dominant ridge",
+  "events": [
+    {
+      "frame": 99,
+      "width": 9.0,
+      "ridgeHz": 750,
+      "strength": 0.0757
+    },
+    {
+      "frame": 110,
+      "width": 21.6,
+      "ridgeHz": 1969,
+      "strength": 0.086
+    },
+    {
+      "frame": 118,
+      "width": 9.4,
+      "ridgeHz": 785,
+      "strength": 0.066
+    },
+    {
+      "frame": 128,
+      "width": 9.4,
+      "ridgeHz": 785,
+      "strength": 0.0482
+    },
+    {
+      "frame": 143,
+      "width": 9.6,
+      "ridgeHz": 809,
+      "strength": 0.0672
+    },
+    {
+      "frame": 161,
+      "width": 10.7,
+      "ridgeHz": 914,
+      "strength": 0.0696
+    },
+    {
+      "frame": 171,
+      "width": 11.7,
+      "ridgeHz": 1008,
+      "strength": 0.0757
+    },
+    {
+      "frame": 183,
+      "width": 13.5,
+      "ridgeHz": 1184,
+      "strength": 0.0781
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "life-victory-constructivist",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"studio": "remotion studio src/index.tsx"},
+  "dependencies": {
+    "@remotion/cli": "4.0.541",
+    "remotion": "4.0.541",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  }
+}

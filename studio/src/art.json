@@ -1,0 +1,587 @@
+[
+  {
+    "id": "K-03a",
+    "title": "风格帧：红楔海报",
+    "group": "风格与版式",
+    "usage": "全片 2D 版式风格参考",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "id": "K-03b",
+    "title": "风格帧：胜利纪念塔",
+    "group": "风格与版式",
+    "usage": "Blender 场景风格参考（BL-01）",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "id": "K-03c",
+    "title": "风格帧：体育场即马桶圈",
+    "group": "风格与版式",
+    "usage": "S31-S32 正式体育场图层",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "id": "H-00",
+    "title": "角色设定表",
+    "group": "主角",
+    "usage": "一致性参考，不直接进成片",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "id": "H-01",
+    "title": "冲刺侧身",
+    "group": "主角",
+    "usage": "S05、S16（S16 需水平镜像版，在 Remotion 中 scaleX(-1)）",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true
+  },
+  {
+    "id": "H-02",
+    "title": "端坐、抱臂、自信",
+    "group": "主角",
+    "usage": "S06、S08",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "H-03",
+    "title": "撑膝看表、不耐烦",
+    "group": "主角",
+    "usage": "S07（小窗）",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "H-04",
+    "title": "背影回头、尴尬",
+    "group": "主角",
+    "usage": "S08",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "H-05",
+    "title": "持旗杆行进",
+    "group": "主角",
+    "usage": "S09（会被复制 7 份排成队列）",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "H-06",
+    "title": "捂肚担忧",
+    "group": "主角",
+    "usage": "S10",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true
+  },
+  {
+    "id": "H-07",
+    "title": "低头拖断杆败走",
+    "group": "主角",
+    "usage": "S11（方向：右上→左下，人物面朝左）",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "H-08",
+    "title": "托腮思考坐姿",
+    "group": "主角",
+    "usage": "S12（坐在 Blender 沙发上）",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "H-09",
+    "title": "侧身顶墙",
+    "group": "主角",
+    "usage": "S13、S17",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true
+  },
+  {
+    "id": "H-10",
+    "title": "咬牙大特写",
+    "group": "主角",
+    "usage": "S14、S17、S18、S19、S28（全片使用最多，质量第一）",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "H-11",
+    "title": "眼睛大特写",
+    "group": "主角",
+    "usage": "S26 电影眼（嵌在镜头里）",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "id": "H-12",
+    "title": "双臂高举狂喜",
+    "group": "主角",
+    "usage": "S22、S32、S33、S39（高光素材，质量第一）",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "H-13",
+    "title": "插旗英雄姿态",
+    "group": "主角",
+    "usage": "S23、S33",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "H-14",
+    "title": "毛巾擦汗、释然",
+    "group": "主角",
+    "usage": "S25",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true
+  },
+  {
+    "id": "H-15",
+    "title": "回头望、骄傲的笑",
+    "group": "主角",
+    "usage": "S26",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true
+  },
+  {
+    "id": "H-16",
+    "title": "腿麻踮脚站姿",
+    "group": "主角",
+    "usage": "S26",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "H-17",
+    "title": "深吸气鼓胸侧面",
+    "group": "主角",
+    "usage": "S36",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true
+  },
+  {
+    "id": "H-18",
+    "title": "平和微笑正面",
+    "group": "主角",
+    "usage": "S37（25% 透明度的背景肖像）",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true
+  },
+  {
+    "id": "H-19",
+    "title": "鞠躬谢幕",
+    "group": "主角",
+    "usage": "S40",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "H-20",
+    "title": "立正领奖",
+    "group": "主角",
+    "usage": "S23、S33（金牌在 Remotion 中挂到胸前）",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "C-01",
+    "title": "一排壮汉齐吼举拳",
+    "group": "合唱团",
+    "usage": "S18、S28、S39、S40",
+    "width": 1914,
+    "height": 822,
+    "alpha": true
+  },
+  {
+    "id": "C-02",
+    "title": "单个壮汉齐吼特写",
+    "group": "合唱团",
+    "usage": "S25（复制成 3×2 阵列）",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "C-03",
+    "title": "壮汉双手拢嘴呐喊",
+    "group": "合唱团",
+    "usage": "S25",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true
+  },
+  {
+    "id": "C-04",
+    "title": "壮汉头顶鼓掌",
+    "group": "合唱团",
+    "usage": "S03 / S40 备用",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true
+  },
+  {
+    "id": "CR-01",
+    "title": "体育场人群远景",
+    "group": "人群",
+    "usage": "S02（前景剪影）、S34",
+    "width": 1914,
+    "height": 822,
+    "alpha": true
+  },
+  {
+    "id": "CR-02",
+    "title": "人群举手欢呼",
+    "group": "人群",
+    "usage": "S03、S33、S34、S39、S40",
+    "width": 1672,
+    "height": 941,
+    "alpha": true
+  },
+  {
+    "id": "CR-03",
+    "title": "密集人脸海洋",
+    "group": "人群",
+    "usage": "S28（被遮罩成楔形阵列的底纹）",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "id": "HD-01",
+    "title": "握拳",
+    "group": "手部",
+    "usage": "",
+    "width": 1592,
+    "height": 1592,
+    "alpha": true
+  },
+  {
+    "id": "HD-02",
+    "title": "指向的手（利西茨基式）",
+    "group": "手部",
+    "usage": "",
+    "width": 1894,
+    "height": 968,
+    "alpha": true
+  },
+  {
+    "id": "HD-03",
+    "title": "鼓掌的手",
+    "group": "手部",
+    "usage": "S03（STAMP 式快速出现）",
+    "width": 1202,
+    "height": 1308,
+    "alpha": true
+  },
+  {
+    "id": "HD-04",
+    "title": "拉冲水链的手",
+    "group": "手部",
+    "usage": "S25",
+    "width": 1344,
+    "height": 2016,
+    "alpha": true
+  },
+  {
+    "id": "HD-05",
+    "title": "握秒表的手",
+    "group": "手部",
+    "usage": "S07 备用",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "O-01",
+    "title": "老式白瓷马桶 3/4 仰拍（纪念碑感）",
+    "group": "道具",
+    "usage": "S17（与主角对峙）",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "O-02",
+    "title": "马桶正俯视（匹配剪辑用）",
+    "group": "道具",
+    "usage": "S30-S31 匹配剪辑",
+    "width": 1672,
+    "height": 941,
+    "alpha": true
+  },
+  {
+    "id": "O-05",
+    "title": "扩音器喇叭",
+    "group": "道具",
+    "usage": "S03、S19、S29",
+    "width": 1301,
+    "height": 1301,
+    "alpha": true
+  },
+  {
+    "id": "O-06",
+    "title": "压力表",
+    "group": "道具",
+    "usage": "S14（指针由 Remotion SVG 绘制）",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "O-07",
+    "title": "老式闹钟",
+    "group": "道具",
+    "usage": "S07 备用",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "O-08",
+    "title": "金牌",
+    "group": "道具",
+    "usage": "S23、S33（Remotion 中做\"黑→金\"双色调上色为 #D9A93A）",
+    "width": 1536,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "O-09",
+    "title": "老式玻璃奶瓶",
+    "group": "道具",
+    "usage": "S20、S30（\"动力来源：吃奶的劲\"说明牌上的小图）",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "O-10",
+    "title": "毛巾",
+    "group": "道具",
+    "usage": "S25 备用",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "O-12",
+    "title": "齿轮组",
+    "group": "道具",
+    "usage": "S14",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "O-13",
+    "title": "老式电影摄影机镜头",
+    "group": "道具",
+    "usage": "S26 电影眼（H-11 眼睛嵌入镜头玻璃）",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "K-01",
+    "title": "终极海报构图参考",
+    "group": "风格与版式",
+    "usage": "S40 拼装目标、S41 定格（施工用实际素材按此构图拼出，不直接使用本图）",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "id": "K-02",
+    "title": "号外报纸版式（无字）",
+    "group": "风格与版式",
+    "usage": "S32（报头、标题、正文、照片全部在 Remotion 中替换）",
+    "width": 1086,
+    "height": 1448,
+    "alpha": false
+  },
+  {
+    "id": "T-01-1",
+    "title": "旧纸纹理",
+    "group": "印刷纹理",
+    "usage": "",
+    "width": 3840,
+    "height": 2160,
+    "alpha": false
+  },
+  {
+    "id": "T-01-2",
+    "title": "旧纸纹理",
+    "group": "印刷纹理",
+    "usage": "",
+    "width": 3840,
+    "height": 2160,
+    "alpha": false
+  },
+  {
+    "id": "T-01-3",
+    "title": "旧纸纹理",
+    "group": "印刷纹理",
+    "usage": "",
+    "width": 3840,
+    "height": 2160,
+    "alpha": false
+  },
+  {
+    "id": "T-03-1",
+    "title": "胶片灰尘划痕",
+    "group": "印刷纹理",
+    "usage": "",
+    "width": 3840,
+    "height": 2160,
+    "alpha": false
+  },
+  {
+    "id": "T-03-2",
+    "title": "胶片灰尘划痕",
+    "group": "印刷纹理",
+    "usage": "",
+    "width": 3840,
+    "height": 2160,
+    "alpha": false
+  },
+  {
+    "id": "T-03-3",
+    "title": "胶片灰尘划痕",
+    "group": "印刷纹理",
+    "usage": "",
+    "width": 3840,
+    "height": 2160,
+    "alpha": false
+  },
+  {
+    "id": "T-04-1",
+    "title": "油墨飞溅/印章边缘",
+    "group": "印刷纹理",
+    "usage": "SLAM 落地帧的飞溅遮罩、STAMP 印章的粗糙边缘",
+    "width": 2048,
+    "height": 2048,
+    "alpha": false
+  },
+  {
+    "id": "T-04-2",
+    "title": "油墨飞溅/印章边缘",
+    "group": "印刷纹理",
+    "usage": "SLAM 落地帧的飞溅遮罩、STAMP 印章的粗糙边缘",
+    "width": 2048,
+    "height": 2048,
+    "alpha": false
+  },
+  {
+    "id": "T-04-3",
+    "title": "油墨飞溅/印章边缘",
+    "group": "印刷纹理",
+    "usage": "SLAM 落地帧的飞溅遮罩、STAMP 印章的粗糙边缘",
+    "width": 2048,
+    "height": 2048,
+    "alpha": false
+  },
+  {
+    "id": "T-04-4",
+    "title": "油墨飞溅/印章边缘",
+    "group": "印刷纹理",
+    "usage": "SLAM 落地帧的飞溅遮罩、STAMP 印章的粗糙边缘",
+    "width": 2048,
+    "height": 2048,
+    "alpha": false
+  },
+  {
+    "id": "T-04-5",
+    "title": "油墨飞溅/印章边缘",
+    "group": "印刷纹理",
+    "usage": "SLAM 落地帧的飞溅遮罩、STAMP 印章的粗糙边缘",
+    "width": 2048,
+    "height": 2048,
+    "alpha": false
+  },
+  {
+    "id": "T-04-6",
+    "title": "油墨飞溅/印章边缘",
+    "group": "印刷纹理",
+    "usage": "SLAM 落地帧的飞溅遮罩、STAMP 印章的粗糙边缘",
+    "width": 2048,
+    "height": 2048,
+    "alpha": false
+  },
+  {
+    "id": "H-16-legs",
+    "title": "腿部遮罩",
+    "group": "分层遮罩",
+    "usage": "",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "O-02-ring",
+    "title": "座圈遮罩",
+    "group": "分层遮罩",
+    "usage": "",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "O-02-water",
+    "title": "水面遮罩",
+    "group": "分层遮罩",
+    "usage": "",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "O-13-lens",
+    "title": "镜头玻璃遮罩",
+    "group": "分层遮罩",
+    "usage": "",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "H-21",
+    "title": "持杆领奖主角",
+    "group": "主角",
+    "usage": "S33 用户指定持木杆版本",
+    "width": 948,
+    "height": 1660,
+    "alpha": true
+  }
+]

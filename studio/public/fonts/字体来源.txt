@@ -1,0 +1,5 @@
+中文标题使用站酷高端黑。字体由胡晓波、刘兵克发起，参与“汉字百人舞”的设计师共同完成造字。请从站酷官方素材页 https://www.zcool.com.cn/assets/ZNTY0OA%3D%3D 下载，将原版站酷高端黑.ttf 放在本目录。该字体文件仅在本地使用，由 Git 忽略。
+
+中文图注使用 Adobe 思源黑体 CN Bold。本目录附 SourceHanSansCN-Bold.otf，许可证见 SourceHanSans-OFL.txt。官方下载页为 https://github.com/adobe-fonts/source-han-sans/blob/release/SubsetOTF/CN/SourceHanSansCN-Bold.otf 。
+
+拉丁字母及章节数字使用 Bebas Neue Regular。本目录附 BebasNeue.ttf，许可证见 BebasNeue-OFL.txt。官方下载页为 https://github.com/google/fonts/blob/main/ofl/bebasneue/BebasNeue-Regular.ttf 。
